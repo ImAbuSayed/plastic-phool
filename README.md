@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/plastic-phool/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Plastic Phool](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/plastic-phool/) |
+| **Get License** | [Secure Licensing Rights for Plastic Phool](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/plastic-phool/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের এই নিস্তব্ধতায় খুঁজি শুধু তোমার ছায়া,
+> কীসের এত মায়া তোমার, কীসের এত মায়া।
+> চোখের ওই গভীরে হারায় আমার দিশা,
+> তোমায় কাছে পাওয়ার এই যেন এক নতুন তৃষা।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
